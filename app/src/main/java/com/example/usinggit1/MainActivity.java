@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
         String hello = "Hello!";
         String bye = "bye";
 
+        // Firebase connect
+        // Add login feature
+
     }
 }

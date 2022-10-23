@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
 
         // Start in other branch
         var anotherFirstLine: String = "first line in other branch"
+        var anotherSecondLine: String = "second line in other branch"
     }
 }

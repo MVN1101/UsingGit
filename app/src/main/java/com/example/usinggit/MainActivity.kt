@@ -19,5 +19,9 @@ class MainActivity : AppCompatActivity() {
         // letters
 
         var letter1: String  = "A"
+
+        // continue
+
+        var number1: Int = 1
     }
 }

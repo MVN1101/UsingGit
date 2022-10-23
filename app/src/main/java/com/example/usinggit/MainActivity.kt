@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         var firstLine: String = "first Line"
         var secondLine: String = "second Line"
+        var thirdLine: String = "third Line"
+
     }
 }

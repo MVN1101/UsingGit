@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         var anotherThirdLine: String = "third line in other branch"
 
         // letters
+        // letters2
 
         var letter1: String  = "A"
 
